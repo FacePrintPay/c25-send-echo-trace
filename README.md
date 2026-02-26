@@ -12,6 +12,6 @@ chmod +x send_echo_trace.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/send_echo_trace.sh
+/data/data/com.termux/files/home/constellation25-mono/sovereign-gtp/src/AiKre8tive-Stargate/send_echo_trace.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
